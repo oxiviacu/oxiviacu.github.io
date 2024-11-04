@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxiviacu.github.io/PTf/sitemap_index.txt
+Sitemap: https://oxiviacu.github.io/gZM/sitemap_index.txt
+Sitemap: https://oxiviacu.github.io/hxH/sitemap_index.txt
+Sitemap: https://oxiviacu.github.io/sDy/sitemap_index.txt
